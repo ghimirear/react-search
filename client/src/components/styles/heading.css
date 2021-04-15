@@ -1,0 +1,7 @@
+.heading-container{
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 20px;
+    width: 90vw;
+    align-self: auto;
+}
