@@ -15,4 +15,4 @@ do npm install on root directory and after that do npm start.
 ![demo-images](./images/react.PNG)
 
 
-![demo-images](./react.PNG)
+![demo-images](./images/react.PNG)
