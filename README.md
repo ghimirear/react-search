@@ -29,8 +29,8 @@ To runs this application you must have Mongo DB,  Node.js and React installed. O
 # Deployment 
 [App](https://vast-waters-78960.herokuapp.com/)
 # Screenshots
-#### searched book list
+#### Searched book list
 ![demo-images](./images/react.PNG)
 
-#### saved books
+#### Saved books
 ![demo-images](./images/mamba.PNG)
